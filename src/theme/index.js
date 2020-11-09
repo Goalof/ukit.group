@@ -18,6 +18,12 @@ export default {
 				"type": "max-width",
 				"value": 992
 			}
+		],
+		"nout": [
+			{
+				"type": "max-width",
+				"value": "1080"
+			}
 		]
 	},
 	"color": {
@@ -175,5 +181,5 @@ export default {
 			}
 		}
 	},
-	"version": 2
+	"version": 5
 }

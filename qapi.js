@@ -38,5 +38,6 @@ export default {
 			"name": "Контакты"
 		}
 	},
+	"mode": "production",
 	"projectType": "gatsby"
 }
